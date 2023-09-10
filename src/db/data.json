@@ -1,0 +1,166 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    },
+    {
+      "day": 8,
+      "id": 8
+    },
+    {
+      "day": 9,
+      "id": 9
+    },
+    {
+      "day": 10,
+      "id": 10
+    },
+    {
+      "day": 11,
+      "id": 11
+    },
+    {
+      "day": 12,
+      "id": 12
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "water",
+      "kor": "물",
+      "isDone": true
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "phone",
+      "kor": "핸드폰",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "ㄹㄹ",
+      "kor": "ㅎㅎ",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "1",
+      "eng": "ㄹㄷㄹㄷㄹ",
+      "kor": "ㅇㄹㅇㄹ",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": true,
+      "id": 10
+    },
+    {
+      "day": "2",
+      "eng": "paper",
+      "kor": "종이",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "day": "1",
+      "eng": "fefe",
+      "kor": "ggg",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "jjj",
+      "kor": "jjjjjj",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "1",
+      "eng": "fqeg",
+      "kor": "gqwgqw",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "12",
+      "eng": "wow",
+      "kor": "와우",
+      "isDone": true,
+      "id": 15
+    },
+    {
+      "day": "4",
+      "eng": "sdfsd",
+      "kor": "sdfsd",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "3",
+      "eng": "ff",
+      "kor": "ffff",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "6",
+      "eng": "ghwerh",
+      "kor": "wehweh",
+      "isDone": false,
+      "id": 18
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 19
+    }
+  ]
+}
