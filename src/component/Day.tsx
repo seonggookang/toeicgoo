@@ -1,14 +1,11 @@
 import React from "react";
-import { useLocation, useParams } from "react-router-dom";
-import Word from "./Word";
-import useFetch from "../hooks/useFetch";
+import { useParams } from "react-router-dom";
+import Word, { IWord } from "./Word.tsx";
+import useFetch from "../hooks/useFetch.ts";
 
 const Day = () => {
-  console.log(useParams());
-  console.log(useLocation());
-
-  const day = Number(useParams().day);
-  const words = useFetch(`http://localhost:3001/words?day=${day}`);
+  const day = Number(useParams<{ day: string }>().day);
+  const words: IWord[] = useFetch(`http://localhost:3001/words?day=${day}`);
 
   return (
     <>
